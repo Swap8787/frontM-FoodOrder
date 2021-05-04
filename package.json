@@ -1,0 +1,28 @@
+{
+  "name": "frontm-foodorder",
+  "version": "1.0.0",
+  "description": "Application to access food catalog & manage order on a flight",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swap8787/frontM-FoodOrder.git"
+  },
+  "author": "Swapnali Bhosale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swap8787/frontM-FoodOrder/issues"
+  },
+  "homepage": "https://github.com/Swap8787/frontM-FoodOrder#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^5.12.7",
+    "morgan": "^1.10.0"
+  }
+}
